@@ -1,0 +1,14 @@
+package ventas;
+
+public class Orden {
+
+	public int idOrden;
+	public Producto producto[]; //arreglo
+	private int contadorOrden;
+	private int contadorProducto; //constante
+	public Orden() {
+		//constructor vacío, servira para almecenar ek valor del contador
+	}
+	
+	
+}

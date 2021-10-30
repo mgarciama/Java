@@ -1,0 +1,13 @@
+package constructores;
+
+public class EjemploOne {
+
+	int a, b;
+	
+	//contructores, no regresa ningun tipo de dato, además debe ser el mismo nombre de nuestra clase
+	public  EjemploOne() {
+		System.out.println("ejecuntando contructor");
+		
+	}
+	
+}

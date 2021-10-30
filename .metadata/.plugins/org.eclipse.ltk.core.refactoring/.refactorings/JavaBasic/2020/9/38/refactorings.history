@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;pasoValor&apos; to &apos;pasoPorValor&apos;&#x0D;&#x0A;- Original project: &apos;JavaBasic&apos;&#x0D;&#x0A;- Original element: &apos;JavaBasic/src/test/java/pasoValor&apos;&#x0D;&#x0A;- Renamed element: &apos;JavaBasic/src/test/java/pasoPorValor&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;pasoValor&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/test\/java&lt;pasoValor" name="pasoPorValor" qualified="false" references="true" stamp="1600360438673" textual="false" version="1.0"/>
+</session>

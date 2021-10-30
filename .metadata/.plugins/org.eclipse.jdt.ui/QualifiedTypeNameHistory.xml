@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="constructores.EjemploOne"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.Number"/>
+<fullyQualifiedTypeName name="clases.Personas"/>
+<fullyQualifiedTypeName name="pasoPorValor.PasoPorReferencia"/>
+<fullyQualifiedTypeName name="ejercicios.Concesionario"/>
+<fullyQualifiedTypeName name="dominio.Persona"/>
+<fullyQualifiedTypeName name="prueba.Prueba"/>
+<fullyQualifiedTypeName name="org.graalvm.compiler.nodes.extended.GetClassNode"/>
+<fullyQualifiedTypeName name="domain.Empleados"/>
+<fullyQualifiedTypeName name="sun.util.calendar.LocalGregorianCalendar.Date"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.text.DateFormat"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="ejercicio.Cliente"/>
+<fullyQualifiedTypeName name="domain.Cliente2"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="mx.com.NombreDominio.nombreProyecto.Utileria"/>
+<fullyQualifiedTypeName name="palabraFinal.com.mx.ClaseFinal"/>
+<fullyQualifiedTypeName name="objetoFinal.ObjFinal"/>
+<fullyQualifiedTypeName name="domain.Persona"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,14 @@
+package orden;
+
+public class Orden {
+
+	public int idOrden;
+	public String producto[]; //arreglo
+	private int contadorOrden;
+	private static final int maxProducto = 10; //constante
+	public Orden() {
+		//constructor vacío, servira para almecenar ek valor del contador
+	}
+	
+	
+}
